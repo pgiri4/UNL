@@ -50,7 +50,7 @@ inside the volume, or, equivalently, the probability of trigger at the edges of
 the cylinder is negligible.
 """
 volume = {
-'fiducial_rmin':0 * units.km,
+'fiducial_rmin': 0 * units.km,
 'fiducial_rmax': 4 * units.km,
 'fiducial_zmin':-3 * units.km,
 'fiducial_zmax': 0 * units.km}
